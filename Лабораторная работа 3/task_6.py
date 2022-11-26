@@ -10,3 +10,4 @@ for i, value_current in enumerate(list_numbers):
 
 list_numbers[index_max], list_numbers[-1] = list_numbers[-1], list_numbers[index_max]
 print(list_numbers)
+
