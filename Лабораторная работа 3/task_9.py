@@ -11,3 +11,4 @@ for _ in range(0, months):
     money_capital += delta
 
 print(round(money_capital))
+
