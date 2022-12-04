@@ -9,3 +9,4 @@ def delete(list_, index=None):
 print(delete([0, 1, 2], index=0))
 print(delete([0, 1, 2], index=1))
 print(delete([0, 1, 2]))
+
